@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "jquery.bootstrap-breakpoints.js",
   "repository": "https://github.com/nvbooster/bootstrap-breakpoints.git",
-  "author": "nvb",
+  "author": "nvb <nvb@aproxima.ru>",
   "license": "MIT",
   "dependencies": {
     "jquery": "*"
